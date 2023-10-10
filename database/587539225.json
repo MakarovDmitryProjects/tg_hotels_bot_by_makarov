@@ -1,0 +1,76 @@
+{
+    "city_list": {
+        "Пекин, Пекин (и окрестности), Китай": "597",
+        "Пекин (PEK - Кэпитал, международный), Китай": "4932944",
+        "Центр Пекина, Пекин, Пекин (и окрестности), Китай": "553248633981714210",
+        "Чаоянг, Пекин, Пекин (и окрестности), Китай": "553248633981694296",
+        "Парк Ритан, Пекин, Пекин (и окрестности), Китай": "6061693",
+        "Центральный деловой район Пекина, Пекин, Пекин (и окрестности), Китай": "6188375",
+        "Торговый центр RiTan ShangJie, Пекин, Пекин (и окрестности), Китай": "553248621532768137",
+        "Средний Чаоян, Пекин, Пекин (и окрестности), Китай": "6051831",
+        "Novotel Beijing Peace, Пекин, Пекин (и окрестности), Китай": "483232",
+        "China World Summit Wing, Beijing, Пекин, Пекин (и окрестности), Китай": "3111042"
+    },
+    "city_id": "597",
+    "city_name": "Пекин, Пекин (и окрестности), Китай",
+    "hotels_value": 10,
+    "check_in": "05-02-2023",
+    "check_out": "21-02-2023",
+    "needed_photo": true,
+    "photos_value": 10,
+    "price_range": [
+        2000,
+        100
+    ],
+    "dist_range": [
+        10.0,
+        30.0
+    ],
+    "history": {
+        "<a href='https://hotels.com/search.do?destination-id=481&q-check-in=01-02-2023&q-check-out=14-02-2023'&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=PRICE_LOW_TO_HIGH''>lowprice Анталья, Анталья (провинция), Турция</a>\n(2023-01-18 13:40:12)": [
+            "<a href='https://hotels.com/ho41176354'>Ozgur Hotel</a>",
+            "<a href='https://hotels.com/ho20258421'>Uyar Palace</a>",
+            "<a href='https://hotels.com/ho21053819'>Ersoy Efe Pansiyon</a>"
+        ],
+        "<a href='https://hotels.com/search.do?destination-id=2872&q-check-in=15-02-2023&q-check-out=28-02-2023'&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=PRICE_LOW_TO_HIGH''>lowprice Прага, Чехия</a>\n(2023-01-18 13:41:36)": [
+            "<a href='https://hotels.com/ho4353785'>Hotel Aladin</a>",
+            "<a href='https://hotels.com/ho521563'>Hotel Astra</a>"
+        ],
+        "<a href='https://hotels.com/search.do?destination-id=481&q-check-in=01-02-2023&q-check-out=14-02-2023'&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=PRICE_LOW_TO_HIGH''>lowprice Анталья, Анталья (провинция), Турция</a>\n(2023-01-20 14:59:48)": [
+            "<a href='https://hotels.com/ho20258421'>Uyar Palace</a>",
+            "<a href='https://hotels.com/ho21053819'>Ersoy Efe Pansiyon</a>",
+            "<a href='https://hotels.com/ho21119228'>Kisla Pansiyon</a>"
+        ],
+        "<a href='https://hotels.com/search.do?destination-id=3168&q-check-in=01-02-2023&q-check-out=14-02-2023'&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=PRICE_LOW_TO_HIGH''>lowprice Сингапур, Сингапур</a>\n(2023-01-21 15:27:17)": [
+            "<a href='https://hotels.com/ho9096337'>iStay Inn</a>",
+            "<a href='https://hotels.com/ho76823422'>Rucksack Inn @ Temple Street</a>",
+            "<a href='https://hotels.com/ho13414183'>River City Inn (SG Clean)</a>"
+        ],
+        "<a href='https://hotels.com/search.do?destination-id=3274&q-check-in=01-02-2023&q-check-out=14-02-2023'&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&sort-order=PRICE_LOW_TO_HIGH''>lowprice Шарм-эш-Шейх, Муфахаза Южный Синай, Египет</a>\n(2023-01-21 16:50:16)": [
+            "<a href='https://hotels.com/ho88653652'>Porto Sharm Hotel Apartments</a>",
+            "<a href='https://hotels.com/ho78311426'>Viking Club Hotel</a>",
+            "<a href='https://hotels.com/ho74212591'>Adrenalin Beach Lodge</a>"
+        ],
+        "<a href='https://hotels.com/search.do?destination-id=2621&q-check-in=01-02-2023&q-check-out=14-02-2023&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&f-price-min=1&f-price-max=5000&f-price-multiplier=1&sort-order=DISTANCE_FROM_LANDMARK'>bestdeal Нью-Йорк, Нью-Йорк, США</a>\n(2023-01-22 14:08:47)": [
+            "<a href='https://hotels.com/ho4182702'>YOTEL New York Times Square</a>",
+            "<a href='https://hotels.com/ho74799455'>Hard Rock Hotel New York</a>",
+            "<a href='https://hotels.com/ho33093413'>Hotel Hendricks</a>"
+        ],
+        "<a href='https://hotels.com/search.do?destination-id=597&q-check-in=05-02-2023&q-check-out=21-02-2023&q-rooms=1&q-room-0-adults=2&q-room-0-children=0&f-price-min=100&f-price-max=2000&f-price-multiplier=1&sort-order=DISTANCE_FROM_LANDMARK'>bestdeal Пекин, Пекин (и окрестности), Китай</a>\n(2023-01-22 14:42:47)": [
+            "<a href='https://hotels.com/ho10009098'>NUO Hotel Beijing</a>"
+        ]
+    },
+    "lang": "ru_RU",
+    "cur": "RUB",
+    "flag_advanced_question": true,
+    "sorted_func": "bestdeal",
+    "del_message_list": {
+        "4702": [
+            "4698",
+            "4699",
+            "4700",
+            "4701",
+            "4702"
+        ]
+    }
+}
